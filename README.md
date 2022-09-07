@@ -56,3 +56,5 @@ Num | Nome | Nota
     Letra monoespaçada para códigos
 ```
 
+:bee:
+
