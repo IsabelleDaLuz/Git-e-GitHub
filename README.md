@@ -4,3 +4,35 @@
  Primeiro repositório
  
  -Essa linha eu adicionei direto no site!-
+
+ ---
+
+**Texto 1**
+
+*Texto 2*
+
+~~Texto 3~~
+
+_*Texto 4*_
+
+***
+
+# Titulo 1
+
+## Titulo 2
+
+### Titulo 3
+
+---
+
+1. Lista 
+1. Lista 
+   1. Lista 
+   1. Lista 
+1. Lista
+
+* Lista 
+* Lista
+   * Lista
+   * Lista
+* Lista
