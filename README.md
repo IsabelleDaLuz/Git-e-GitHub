@@ -36,3 +36,23 @@ _*Texto 4*_
    * Lista
    * Lista
 * Lista
+
+- [] Tarefa
+- [] Tarefa
+   - [x] Tarefa
+   - [x] Tarefa
+- [] Tarefa
+
+***
+
+**Tabelas**
+
+Num | Nome | Nota
+---|---|---
+1 | Isabelle | 9.8
+2 | Anderson | 9.0
+
+```
+    Letra monoespaçada para códigos
+```
+
