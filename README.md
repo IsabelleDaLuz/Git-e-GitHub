@@ -13,7 +13,7 @@
 
 ~~Texto 3~~
 
-_*Texto 4*_
+*_Texto 4_*
 
 ***
 
@@ -37,11 +37,11 @@ _*Texto 4*_
    * Lista
 * Lista
 
-- [] Tarefa
-- [] Tarefa
+- [ ] Tarefa
+- [ ] Tarefa
    - [x] Tarefa
    - [x] Tarefa
-- [] Tarefa
+- [ ] Tarefa
 
 ***
 
